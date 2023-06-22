@@ -4,7 +4,7 @@ Project to use as landing page for SAAS or other services using React and Tailwi
 
 ## Information:
 
-1. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app): run npx create-react-app react-saas-landing-page
+1. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app): `run npx create-react-app react-saas-landing-page`
 2. Install Tailwind: [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app)
 3. React Icons: `npm install react-icons --save`
 4. React Typed: `npm install react-typed --save --legacy-peer-deps`
